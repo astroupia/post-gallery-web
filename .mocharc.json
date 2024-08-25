@@ -1,0 +1,8 @@
+{
+  "recursive": true,
+  "timeout": 3000,
+  "file": ["./src/test/apps/auth/data/repositories/authRepositoryTest.ts"],
+  "noEmit": true,
+  "require": "ts-node/register",
+  "p": "./tsconfig.json"
+}
